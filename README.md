@@ -1,6 +1,6 @@
 # resources
 
-[fullstack walkthrough (<1hr)](https://gist.github.com/bacwyls/13661b50410e3ed5b3da0c19dd6ab16e)
+[one hour urbit app](https://gist.github.com/bacwyls/13661b50410e3ed5b3da0c19dd6ab16e)
 
 ![](img/clicker-sc.png)
 <hr>
